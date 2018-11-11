@@ -2,7 +2,7 @@
 
 # Distributions
 
-This repository includes a shiny app to visualize three commonly use distributions for survival data analysis:
+This repository includes a shiny app to visualize three **commonly use distributions for survival data analysis**:
 
 - Exponential distribution
 - Weibull distribution
