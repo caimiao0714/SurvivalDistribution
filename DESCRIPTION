@@ -1,0 +1,7 @@
+Title: Commonly used distribution for survival data analysis
+Author: Miao Cai <miao.cai@slu.edu>
+AuthorUrl: https://github.com/caimiao0714
+License: GPL-3
+DisplayMode: Showcase
+Tags: Exponential, Weibull, Gamma
+Type: Shiny
